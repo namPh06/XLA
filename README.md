@@ -129,3 +129,5 @@ Hai lệnh train mặc định dùng cùng seed 12345; script tự chọn CUDA n
 - `docs/experiments/`: bằng chứng smoke test đã chạy.
 
 Mã LinCIR gốc dùng giấy phép CC BY-NC 4.0. Hãy kiểm tra giấy phép của mã, checkpoint và dữ liệu trước khi sử dụng ngoài mục đích nghiên cứu.
+
+<!--! -->
